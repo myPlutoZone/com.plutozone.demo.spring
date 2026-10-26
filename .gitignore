@@ -32,7 +32,7 @@ build/
 /bin/
 /upload/
 
-bin/**
+
 .mvn/
 mvnw.cmd
 .classpath
@@ -42,5 +42,3 @@ deploy.*
 pom.xml
 README*.*
 src
-/bin/
-/bin/
